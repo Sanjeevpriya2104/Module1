@@ -1,4 +1,4 @@
-# 1(a) Conditional Statements in Python: Even or Odd Checker
+# 1(a) Conditional Statements in Python: check minimum value
 
 ## Aim
 write a python program to find the minimum of two float numbers using conditional expression (Ternary)
